@@ -1,4 +1,4 @@
-module github.com/ptcar2009/watcher
+module github.com/ptcar2009/ptcwatcher
 
 go 1.16
 
